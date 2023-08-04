@@ -3,7 +3,7 @@
 ## About this project:
 A method that determines if a given data set represents a valid UTF-8 encoding.
 
-## Tasks To Complete
+## Tasks file description:
 
 * [0-stats.py](0-stats.py) contains a script with a function that determines if a given data set represents a valid UTF-8 encoding:
   + Prototype: `def validUTF8(data)`.
